@@ -18,8 +18,8 @@ Son Zamanlardaki Projelerim:
 * "Büfe" ve "manav" gibi yerel terimleri Google Places API ile eşleştirerek yüksek doğruluklu ve yerelleştirilmiş bir API mimarisi kurdum.
 
 ####  Jelly Chatbot & SAP RPA Ajanı
-* Python, LangChain ve Groq LLM ile RAG mimarili bir chatbot geliştirdim; doğru veri için yerel dokümanlardan önce dış URL kaynaklarını sorgulayan özel bir yapı kurdum[cite: 1].
-* Gelen e-posta taleplerini ayrıştırarak SAP GUI üzerinden malzeme ve stok işlemlerini (MMSC, MMO2) otonom olarak yürüten bir RPA ajanı kodladım[cite: 1].
+* Python, LangChain ve Groq LLM ile RAG mimarili bir chatbot geliştirdim; doğru veri için yerel dokümanlardan önce dış URL kaynaklarını sorgulayan özel bir yapı kurdum.
+* Gelen e-posta taleplerini ayrıştırarak SAP GUI üzerinden malzeme ve stok işlemlerini (MMSC, MMO2) otonom olarak yürüten bir RPA ajanı kodladım.
 
 ####  Kredi Kartı Sahtekârlık Tespiti (ML)
 * Kredi kartı işlemleri üzerinde sahtekârlık tespiti için ML modeli geliştirdim.
@@ -27,9 +27,9 @@ Son Zamanlardaki Projelerim:
 * Model performansı değerlendirilerek analiz edildi.
 
 ####  Türkçe Metin Madenciliği & Duygu Analizi
-* Türkçe metinler üzerinde duygu analizi gerçekleştiren bir NLP projesi geliştirdim[cite: 1].
-* Metin ön işleme ve TF-IDF özellik çıkarımı uyguladım[cite: 1].
-* Makine öğrenmesi modelleri ile sınıflandırma yaptım ve performans değerlendirildi[cite: 1].
+* Türkçe metinler üzerinde duygu analizi gerçekleştiren bir NLP projesi geliştirdim.
+* Metin ön işleme ve TF-IDF özellik çıkarımı uyguladım.
+* Makine öğrenmesi modelleri ile sınıflandırma yaptım ve performans değerlendirildi.
 
 ---
 
