@@ -1,54 +1,35 @@
-## Hi there 👋
-## Hi 👋 I'm Sena
+# Merhaba, Ben Sena 👋
 
-🎓 Computer Engineering Student  
-💻 Backend Development (ASP.NET Core, C#)  
-🤖 Interested in Machine Learning, Data Mining & Artificial Neural Networks  
+Yazılım geliştirme, yapay zeka (AI) ve makine öğrenmesi (ML) alanlarında modern çözümler üreten bir bilgisayar mühendisiyim. Çalışmalarımda özellikle Doğal Dil İşleme (NLP), AI Agent ve RAG mimarilerine odaklanıyor; veri bilimi yaklaşımlarıyla projeler tasarlıyorum.
+
+---
+Yetenekler & Teknolojiler
+
+*   **Yapay Zeka & Veri Bilimi:** Python, Doğal Dil İşleme (NLP), Makine Öğrenmesi, Derin Öğrenme, Veri Bilimi
+*   **LLM & Mimari:** AI Agent Geliştirme, LLM, RAG Mimarisi
+*   **Yazılım Geliştirme:** C++, C#, Nesne Yönelimli Programlama (OOP), Veri Yapıları ve Algoritmalar
+*   **Web, Mobil & Veritabanı:** FastAPI, Flutter, T-SQL
 
 ---
 
-### 🧠 Projects & Interests
+#### 📍 NLP Tabanlı Akıllı Konum Öneri Sistemi (Bitirme Projesi)
+* Kullanıcıların serbest metin girişlerinden niyet analizi (yemek, market vb.) yaparak en uygun lokasyonları öneren bir platform geliştirdim[cite: 1].
+* "Yakın" ve "acil" gibi kelimeleri doğal dil işleme ile algılayarak, sonuçları mesafeye göre dinamik olarak sıralayan bir algoritma entegre ettim[cite: 1].
+* "Büfe" ve "manav" gibi yerel terimleri Google Places API ile eşleştirerek yüksek doğruluklu ve yerelleştirilmiş bir API mimarisi kurdum[cite: 1].
 
-#### 🤖 Machine Learning & AI
-- 📊 **Text Mining Project**  
-  Performed text preprocessing, feature extraction and analysis techniques.
+#### 🤖 Jelly Chatbot & SAP RPA Ajanı
+* Python, LangChain ve Groq LLM ile RAG mimarili bir chatbot geliştirdim; doğru veri için yerel dokümanlardan önce dış URL kaynaklarını sorgulayan özel bir yapı kurdum[cite: 1].
+* Gelen e-posta taleplerini ayrıştırarak SAP GUI üzerinden malzeme ve stok işlemlerini (MMSC, MMO2) otonom olarak yürüten bir RPA ajanı kodladım[cite: 1].
 
-- 🧬 **Artificial Neural Network Design**  
-  Designed and implemented an artificial neural network for a machine learning task.
+#### 💳 Kredi Kartı Sahtekârlık Tespiti (ML)
+* Kredi kartı işlemleri üzerinde sahtekârlık tespiti için ML modeli geliştirdim[cite: 1].
+* Veri ön işleme ve modelleme adımlarını uyguladım[cite: 1].
+* Model performansı değerlendirilerek analiz edildi[cite: 1].
 
-- 🤖 **Machine Learning Project**  
-  Built a complete ML pipeline including data preprocessing, model training and evaluation.
-
-#### 💻 Software Development
-- 🌐 **ASP.NET Core Web Application**  
-  Developed a web application using ASP.NET Core with backend-focused architecture.
-
-- 🎮 **C# Game Development**  
-  Designed and implemented a game application using C#.
-
-- 🏭 **Automation Project**  
-  Built an automation system to streamline and manage repetitive processes.
+#### 📝 Türkçe Metin Madenciliği & Duygu Analizi
+* Türkçe metinler üzerinde duygu analizi gerçekleştiren bir NLP projesi geliştirdim[cite: 1].
+* Metin ön işleme ve TF-IDF özellik çıkarımı uyguladım[cite: 1].
+* Makine öğrenmesi modelleri ile sınıflandırma yaptım ve performans değerlendirildi[cite: 1].
 
 ---
 
-### 🛠 Tech Stack
-- **Languages & Frameworks:** C#, .NET, ASP.NET Core
-- **Web Development:** Backend Development, RESTful Architecture
-- **AI & Data:** Machine Learning, Text Mining, Artificial Neural Networks
-- **Database:** SQL, Entity Framework
-- **Tools:** Git, GitHub
-
-<!--
-**meryep/meryep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
